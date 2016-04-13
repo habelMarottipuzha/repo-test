@@ -1,2 +1,2 @@
-# hab_androidutils
-basic utilities,hacks etc which is needed in day to day developing
+# Android utils
+This repository contains various utilities,hacks,shortcuts needed for android development.this includes
